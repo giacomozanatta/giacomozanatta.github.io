@@ -1,0 +1,44 @@
+{
+    "@context":"http://www.schema.org",
+    "@type":"WebPage",
+    "@id":"https://www.giacomozanatta.com",
+    "name":"Giacomo Zanatta: PhD Student",
+    "description":"Giacomo is a PhD student in Computer Science, specializing in static analysis and program verification with 4+ years expertise in industry as a Salesforce consultant.",
+    "url":"https://www.giacomozanatta.com/",
+    "mainEntity":{
+        "@type":"Person",
+        "@id":"https://www.giacomozanatta.com",
+        "name":"Giacomo Zanatta",
+        "givenName":"Giacomo",
+        "url":"https://www.giacomozanatta.com/",
+        "image":"https://www.savaslabs.com/sites/default/files/styles/550x550/public/2020-02/sean-oshea-square-outside-350by350-05efd5.jpg",
+        "description":"PhD student, computer scientist, back-end developer, ",
+        "jobTitle":"PhD Student",
+        "worksFor":{
+            "@type":"Organization",
+            "name":"Ca' Foscari University of Venice",
+            "url":"https://www.unive.it"
+        },
+        "homeLocation":{
+            "@type":"Place",
+            "keywords":["Central European Time","UTC+1, "]
+        },
+            "knowsAbout":["PhD Student","Static Analysis","Abstract Interpretation","Researcher","Computer Science","Formal Methods", "Microservices", "Security"],
+            "mainEntityOfPage":"",
+            "sameAs":[
+                "https://github.com/giacomozanatta",
+                "https://www.linkedin.com/in/giacomozanatta/"
+            ]},
+            "accessibilityControl":[
+                "fullKeyboardControl",
+                "fullMouseControl",
+                "fullTouchControl"],
+            "accessibilityFeature":[
+                "readingOrder",
+                "structuralNavigation",
+                "tableOfContents",
+                "alternativeContent",
+                "longDescription",
+                "highContrastDisplay"],
+            "accessibilityHazard":"none"
+        }
