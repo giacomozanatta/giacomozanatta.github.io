@@ -35,7 +35,7 @@ html {
   }
   
   .image-container {
-    flex: 0 0 8%; /* Image takes 20% of the container */
+    flex: 0 0 10%; /* Image takes 20% of the container */
     margin-right: 20px; /* Adds some spacing between the image and text */
   }
   
@@ -444,7 +444,9 @@ dd, dt, h1, h2, h3, h4, h5, h6, header.home h1 span.name, li, p {
     .fix-left-panel {
         width: 12%;
     }
-
+    .image-container {
+        display: none;
+    }
     main {
         margin-left: 12%;
     }
